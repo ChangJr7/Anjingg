@@ -20,7 +20,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf Brutefb`
-- `git clone https://github.com/YusepXD/Brutefb`
+- `git clone https://github.com/Yusep-XD/Brutefb`
 - `cd Brutefb`
 - `python run.py`
      
